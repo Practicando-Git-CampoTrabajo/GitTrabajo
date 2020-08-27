@@ -15,3 +15,17 @@ se recomienda crear una organizacion que sea la propietaria del repositorio prin
 
 # creacion del fork
 proyecto copia
+
+
+# como trabajar con 2 o mas remotos
+
+listar remotos
+
+'git remote -v'
+
+agregar remotos
+
+'git remote add EDgit "link del repositorio"
+
+eliminar remotos
+'git remote remove EDgit'
